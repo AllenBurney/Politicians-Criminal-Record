@@ -320,7 +320,7 @@ def print_summary(data):
 
 if __name__ == "__main__":
     print("="*60)
-    print("  NyayaNazar — Master Scraper (All Winners + All States)")
+    print("  PoliCrime — Master Scraper (All Winners + All States)")
     print("="*60)
     print(f"\n  Elections   : {len(ELECTIONS)}")
     print(f"  Output      : {OUTPUT_FILE}")
