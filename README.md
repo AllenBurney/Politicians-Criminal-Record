@@ -1,4 +1,4 @@
-#This was valid only till 2025 vidhan sabha election
+# This was valid only till 2025 vidhan sabha election
 
 # PoliCrime - Election Data Scraper
 
