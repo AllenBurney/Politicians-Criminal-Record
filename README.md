@@ -1,3 +1,8 @@
+```diff
+- # This was valid only till 2025 vidhan sabha election
+```
+
+
 # PoliCrime - Election Data Scraper
 
 A Python-based master scraper designed to extract data of elected candidates (Lok Sabha MPs and State MLAs) and their declared criminal cases from [myneta.info](https://myneta.info/).
